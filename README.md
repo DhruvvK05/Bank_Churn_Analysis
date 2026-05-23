@@ -7,7 +7,7 @@ A dynamic and interactive Power BI dashboard built to analyze customer churn beh
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/executive_summary.png" width="1000"/>
+  <img src=screenshots/1. Executive Summary page.png width="1000"/>
 </p>
 
 ---
