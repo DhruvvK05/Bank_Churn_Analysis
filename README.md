@@ -4,14 +4,6 @@ A dynamic and interactive Power BI dashboard built to analyze customer churn beh
 
 ---
 
-## 📸 Dashboard Preview
-
-<p align="center">
-  <img src=screenshots/1. Executive Summary page.png width="1000"/>
-</p>
-
----
-
 ## 📖 Short Description / Purpose
 
 The Bank Customer Churn Analysis Dashboard is a visually engaging and analytical Power BI report designed to help users explore and understand customer attrition patterns within a banking environment.
@@ -125,13 +117,6 @@ These KPIs provide a quick overview of overall customer retention performance an
 - High-balance customers represent elevated financial risk exposure.
 - Product engagement appears correlated with stronger customer retention.
 
----
-
-<p align="center">
-  <img src="screenshots/executive_summary.png" width="1000"/>
-</p>
-
----
 
 ## 📌 Customer Segmentation Analytics
 
@@ -152,11 +137,6 @@ These KPIs provide a quick overview of overall customer retention performance an
 
 ---
 
-<p align="center">
-  <img src="screenshots/segmentation_analytics.png" width="1000"/>
-</p>
-
----
 
 ## 📌 Advanced Churn Insights
 
@@ -176,11 +156,6 @@ These KPIs provide a quick overview of overall customer retention performance an
 
 ---
 
-<p align="center">
-  <img src="screenshots/advanced_churn_insights.png" width="1000"/>
-</p>
-
----
 
 ## 📌 Customer Deep Dive Dashboard
 
@@ -200,14 +175,6 @@ Enables analysts and retention teams to:
 - Investigate high-risk customers individually
 - Compare customer behavior against segment averages
 - Support targeted retention strategies
-
----
-
-<p align="center">
-  <img src="screenshots/customer_deep_dive.png" width="1000"/>
-</p>
-
----
 
 # 📈 Business Impact & Insights
 
