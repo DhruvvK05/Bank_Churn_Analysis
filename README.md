@@ -7,7 +7,11 @@ A dynamic and interactive Power BI dashboard built to analyze customer churn beh
 ## 📸 Dashboard Preview
 
 <p align="center">
+<<<<<<< HEAD
   <img src="screenshots/executive_summary.png" width="1000"/>
+=======
+  <img src="Screenshots/executive_summary.png" width="1000"/>
+>>>>>>> 9fa63d6a87ab74bfe29be5361ebdcf4d2640f4ae
 </p>
 
 ---
@@ -128,7 +132,11 @@ These KPIs provide a quick overview of overall customer retention performance an
 ---
 
 <p align="center">
+<<<<<<< HEAD
   <img src="screenshots/executive_summary.png" width="1000"/>
+=======
+  <img src="Screenshots/executive_summary.png" width="1000"/>
+>>>>>>> 9fa63d6a87ab74bfe29be5361ebdcf4d2640f4ae
 </p>
 
 ---
@@ -153,7 +161,11 @@ These KPIs provide a quick overview of overall customer retention performance an
 ---
 
 <p align="center">
+<<<<<<< HEAD
   <img src="screenshots/segmentation_analytics.png" width="1000"/>
+=======
+  <img src="Screenshots/segmentation_analytics.png" width="1000"/>
+>>>>>>> 9fa63d6a87ab74bfe29be5361ebdcf4d2640f4ae
 </p>
 
 ---
@@ -177,7 +189,11 @@ These KPIs provide a quick overview of overall customer retention performance an
 ---
 
 <p align="center">
+<<<<<<< HEAD
   <img src="screenshots/advanced_churn_insights.png" width="1000"/>
+=======
+  <img src="Screenshots/advanced_churn_insights.png" width="1000"/>
+>>>>>>> 9fa63d6a87ab74bfe29be5361ebdcf4d2640f4ae
 </p>
 
 ---
@@ -204,7 +220,11 @@ Enables analysts and retention teams to:
 ---
 
 <p align="center">
+<<<<<<< HEAD
   <img src="screenshots/customer_deep_dive.png" width="1000"/>
+=======
+  <img src="Screenshots/customer_deep_dive.png" width="1000"/>
+>>>>>>> 9fa63d6a87ab74bfe29be5361ebdcf4d2640f4ae
 </p>
 
 ---
